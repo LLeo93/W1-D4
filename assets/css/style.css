@@ -93,34 +93,34 @@ ol li{
     margin: 2em;
 }
 #table{
-    display: block;
+   display: inline;
    margin: 2em;
    border: 2px solid black;
 }
 thead{
-    display: block;
+    display: inline;
     margin: 2em;
     padding: 2em;
     border: 2px solid black;
-    text-align: center;
+    
 }    
 tr{
     border: 2px solid black;
-    text-align: center;
-    display: block;
+    display: inline;
+    
 }
 th{
     margin: 2em;
     padding: 2em;
     background-color: blue;
     border: 1px solid black;
-    display: block;
-    text-align: center;
+    display: inline;
+   
 }
 td{
     border: 1px solid black;
-    display: block;
-    text-align: center;
+    display: inline;
+    
 }
 
 
